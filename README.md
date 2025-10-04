@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/fajar3/pmb-fix/blob/main/Gemini_Generated_Image_ey8pd3ey8pd3ey8p.png" alt="header" style="border-radius: 20px;" width="100%"/>
+  <img src="https://github.com/fajar3/ppdb-assalam/blob/main/fajar.jpg" alt="header" style="border-radius: 20px;" width="100%"/>
 </p>
 
 ---
